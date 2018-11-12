@@ -14,8 +14,8 @@
         },
         "title": "huDS_NHF1_CPD_A_0h_cell_0J",
         "SRA": {
-            "id": "SRR5461429",
-            "runs": []
+            "id": "SRX2749363",
+            "runs": ["SRR5461429"]
         }
     },
     {
@@ -33,8 +33,8 @@
         },
         "title": "huDS_NHF1_CPD_B_0h_cell_0J",
         "SRA": {
-            "id": "SRR5461430",
-            "runs": []    
+            "id": "SRX2749364",
+            "runs": ["SRR5461430"]    
         }
     },
     {
@@ -52,8 +52,8 @@
         },
         "title": "huDS_NHF1_CPD_A_0h_cell_10J",
         "SRA": {
-            "id": "SRR5461431",
-            "runs": []
+            "id": "SRX2749365",
+            "runs": ["SRR5461431"]
         }
     },
     {
@@ -71,8 +71,8 @@
         },
         "title": "huDS_NHF1_CPD_B_0h_cell_10J",
         "SRA": {
-            "id": "SRR5461432",
-            "runs": []    
+            "id": "SRX2749366",
+            "runs": ["SRR5461432"]    
         }
     },
     {
@@ -90,8 +90,8 @@
         },
         "title": "huDS_NHF1_CPD_A_1h_cell_10J",
         "SRA": {
-            "id": "SRR5461433",
-            "runs": []    
+            "id": "SRX2749367",
+            "runs": ["SRR5461433"]    
         }
     },
     {
@@ -109,8 +109,8 @@
         },
         "title": "huDS_NHF1_CPD_B_1h_cell_10J",
         "SRA": {
-            "id": "SRR5461434",
-            "runs": []    
+            "id": "SRX2749368",
+            "runs": ["SRR5461434"]    
         }
     },
     {
@@ -128,8 +128,8 @@
         },
         "title": "huDS_NHF1_CPD_A_8h_cell_10J",
         "SRA": {
-            "id": "SRR5461435",
-            "runs": []    
+            "id": "SRX2749369",
+            "runs": ["SRR5461435"]    
         }
     },
     {
@@ -147,8 +147,8 @@
         },
         "title": "huDS_NHF1_CPD_B_8h_cell_10J",
         "SRA": {
-            "id": "SRR5461436",
-            "runs": []    
+            "id": "SRX2749370",
+            "runs": ["SRR5461436"]    
         }
     },
     {
@@ -166,8 +166,8 @@
         },
         "title": "huDS_NHF1_CPD_A_24h_cell_10J",
         "SRA": {
-            "id": "SRR5461437",
-            "runs": []    
+            "id": "SRX2749371",
+            "runs": ["SRR5461437"]    
         }
     },
     {
@@ -185,8 +185,8 @@
         },
         "title": "huDS_NHF1_CPD_B_24h_cell_10J",
         "SRA": {
-            "id": "SRR5461438",
-            "runs": []    
+            "id": "SRX2749372",
+            "runs": ["SRR5461438"]    
         }
     },
     {
@@ -204,8 +204,8 @@
         },
         "title": "huDS_NHF1_CPD_A_36h_cell_10J",
         "SRA": {
-            "id": "SRR5461439",
-            "runs": []    
+            "id": "SRX2749373",
+            "runs": ["SRR5461439"]    
         }
     },
     {
@@ -223,8 +223,8 @@
         },
         "title": "huDS_NHF1_CPD_B_36h_cell_10J",
         "SRA": {
-            "id": "SRR5461440",
-            "runs": []    
+            "id": "SRX2749374",
+            "runs": ["SRR5461440"]    
         }
     },
     {
@@ -242,8 +242,8 @@
         },
         "title": "huDS_NHF1_CPD_A_48h_cell_10J",
         "SRA": {
-            "id": "SRR5461441",
-            "runs": []    
+            "id": "SRX2749375",
+            "runs": ["SRR5461441"]    
         }
     },
     {
@@ -261,8 +261,8 @@
         },
         "title": "huDS_NHF1_CPD_B_48h_cell_10J",
         "SRA": {
-            "id": "SRR5461442",
-            "runs": []    
+            "id": "SRX2749376",
+            "runs": ["SRR5461442"]    
         }
     },
     {
@@ -280,8 +280,8 @@
         },
         "title": "huDS_NHF1_64PP_A_0h_cell_0J",
         "SRA": {
-            "id": "SRR5461443",
-            "runs": []    
+            "id": "SRX2749377",
+            "runs": ["SRR5461443"]    
         }
     },
     {
@@ -299,8 +299,8 @@
         },
         "title": "huDS_NHF1_64PP_B_0h_cell_0J",
         "SRA": {
-            "id": "SRR5461444",
-            "runs": []    
+            "id": "SRX2749378",
+            "runs": ["SRR5461444"]    
         }
     },
     {
@@ -318,8 +318,8 @@
         },
         "title": "huDS_NHF1_64PP_A_0h_cell_20J",
         "SRA": {
-            "id": "SRR5461445",
-            "runs": []    
+            "id": "SRX2749379",
+            "runs": ["SRR5461445"]    
         }
     },
     {
@@ -337,8 +337,8 @@
         },
         "title": "huDS_NHF1_64PP_B_0h_cell_20J",
         "SRA": {
-            "id": "SRR5461446",
-            "runs": []    
+            "id": "SRX2749380",
+            "runs": ["SRR5461446"]    
         }
     },
     {
@@ -356,8 +356,8 @@
         },
         "title": "huDS_NHF1_64PP_A_20m_cell_20J",
         "SRA": {
-            "id": "SRR5461447",
-            "runs": []    
+            "id": "SRX2749381",
+            "runs": ["SRR5461447"]    
         }
     },
     {
@@ -375,8 +375,8 @@
         },
         "title": "huDS_NHF1_64PP_B_20m_cell_20J",
         "SRA": {
-            "id": "SRR5461448",
-            "runs": []    
+            "id": "SRX2749382",
+            "runs": ["SRR5461448"]    
         }
     },
     {
@@ -394,8 +394,8 @@
         },
         "title": "huDS_NHF1_64PP_A_1h_cell_20J",
         "SRA": {
-            "id": "SRR5461449",
-            "runs": []    
+            "id": "SRX2749383",
+            "runs": ["SRR5461449"]    
         }
     },
     {
@@ -413,8 +413,8 @@
         },
         "title": "huDS_NHF1_64PP_B_1h_cell_20J",
         "SRA": {
-            "id": "SRR5461450",
-            "runs": []    
+            "id": "SRX2749384  ",
+            "runs": ["SRR5461450"]    
         }
     },
     {
@@ -432,8 +432,8 @@
         },
         "title": "huDS_NHF1_64PP_A_2h_cell_20J",
         "SRA": {
-            "id": "SRR5461451",
-            "runs": []    
+            "id": "SRX2749385",
+            "runs": ["SRR5461451"]    
         }
     },
     {
@@ -451,8 +451,8 @@
         },
         "title": "huDS_NHF1_64PP_B_2h_cell_20J",
         "SRA": {
-            "id": "SRR5461452",
-            "runs": []    
+            "id": "SRX2749386",
+            "runs": ["SRR5461452"]    
         }
     },
     {
@@ -470,8 +470,8 @@
         },
         "title": "huDS_NHF1_64PP_A_4h_cell_20J",
         "SRA": {
-            "id": "SRR5461453",
-            "runs": []    
+            "id": "SRX2749387",
+            "runs": ["SRR5461453"]    
         }
     },
     {
@@ -489,8 +489,8 @@
         },
         "title": "huDS_NHF1_64PP_B_4h_cell_20J",
         "SRA": {
-            "id": "SRR5461454",
-            "runs": []    
+            "id": "SRX2749388",
+            "runs": ["SRR5461454"]    
         }
     },
     {
@@ -508,8 +508,8 @@
         },
         "title": "huDS_GM12878_CPD_A_0h_naked_20J",
         "SRA": {
-            "id": "SRR5461459",
-            "runs": []    
+            "id": "SRX2749393 ",
+            "runs": ["SRR5461459"]    
         }
     },
     {
@@ -527,8 +527,8 @@
         },
         "title": "huDS_GM12878_CPD_B_0h_naked_20J",
         "SRA": {
-            "id": "SRR5461460   ",
-            "runs": []    
+            "id": "SRX2749394 ",
+            "runs": ["SRR5461460"]    
         }
     },
     {
@@ -546,8 +546,8 @@
         },
         "title": "huDS_GM12878_64PP_A_0h_naked_20J",
         "SRA": {
-            "id": "SRR5461455",
-            "runs": []    
+            "id": "SRX2749389",
+            "runs": ["SRR5461455"]    
         }
     },
     {
@@ -555,7 +555,7 @@
         "experiment": "Human_UV_Damage-seq",
         "cell_line": "GM12878",
         "tissue": false,
-        "damage": "UV_64PP",
+        "damage": "UV_64PP",    
         "protocol": "Damage-seq",
         "replicate": "B",
         "treatment": {
@@ -565,8 +565,8 @@
         },
         "title": "huDS_GM12878_64PP_B_0h_naked_20J",
         "SRA": {
-            "id": "SRR5461456",
-            "runs": []    
+            "id": "SRX2749390",
+            "runs": ["SRR5461456"]    
         }
     },
     {
@@ -584,8 +584,8 @@
         },
         "title": "huDS_GM12878_CPD_A_0h_cell_20J",
         "SRA": {
-            "id": "SRR5461461",
-            "runs": []    
+            "id": "SRX2749395",
+            "runs": ["SRR5461461"]    
         }
     },
     {
@@ -603,8 +603,8 @@
         },
         "title": "huDS_GM12878_CPD_B_0h_cell_20J",
         "SRA": {
-            "id": "SRR5461462",
-            "runs": []    
+            "id": "SRX2749396",
+            "runs": ["SRR5461462"]    
         }
     },
     {
@@ -622,8 +622,8 @@
         },
         "title": "huDS_GM12878_64PP_A_0h_cell_20J",
         "SRA": {
-            "id": "SRR5461457",
-            "runs": []    
+            "id": "SRX2749391",
+            "runs": ["SRR5461457"]    
         }
     },
     {
@@ -641,8 +641,8 @@
         },
         "title": "huDS_GM12878_64PP_B_0h_cell_20J",
         "SRA": {
-            "id": "SRR5461458",
-            "runs": []    
+            "id": "SRX2749392",
+            "runs": ["SRR5461458"]    
         }
     },
     {
@@ -658,8 +658,8 @@
         },
         "title": "yeastXR_CPD_A_5m",
         "SRA": {
-            "id": "SRR6726725",
-            "runs": []    
+            "id": "SRX3699740 ",
+            "runs": ["SRR6726725"]    
         }
     },
     {
@@ -675,8 +675,8 @@
         },
         "title": "yeastXR_CPD_B_5m",
         "SRA": {
-            "id": "SRR6726726",
-            "runs": []    
+            "id": "SRX3699741",
+            "runs": ["SRR6726726"]    
         }
     },
     {
@@ -692,8 +692,8 @@
         },
         "title": "yeastXR_CPD_A_20m",
         "SRA": {
-            "id": "SRR6726727",
-            "runs": []    
+            "id": "SRX3699742",
+            "runs": ["SRR6726727"]    
         }
     },
     {
@@ -709,8 +709,8 @@
         },
         "title": "yeastXR_CPD_B_20m",
         "SRA": {
-            "id": "SRR6726728",
-            "runs": []    
+            "id": "SRX3699743",
+            "runs": ["SRR6726728"]    
         }
     },
     {
@@ -726,8 +726,8 @@
         },
         "title": "yeastXR_CPD_A_1h",
         "SRA": {
-            "id": "SRR6726729",
-            "runs": []    
+            "id": "SRX3699744",
+            "runs": ["SRR6726729"]    
         }
     },
     {
@@ -743,8 +743,8 @@
         },
         "title": "yeastXR_CPD_B_1h",
         "SRA": {
-            "id": "SRR6726730",
-            "runs": []    
+            "id": "SRX3699745",
+            "runs": ["SRR6726730"]    
         }
     },
     {
@@ -760,8 +760,8 @@
         },
         "title": "yeastXR_64PP_A_5m",
         "SRA": {
-            "id": "SRR6726731",
-            "runs": []    
+            "id": "SRX3699746",
+            "runs": ["SRR6726731"]    
         }
     },
     {
@@ -777,8 +777,8 @@
         },
         "title": "yeastXR_64PP_B_5m",
         "SRA": {
-            "id": "SRR6726732",
-            "runs": []    
+            "id": "SRX3699747",
+            "runs": ["SRR6726732"]    
         }
     },
     {
@@ -794,8 +794,8 @@
         },
         "title": "yeastXR_64PP_A_20m",
         "SRA": {
-            "id": "SRR6726733",
-            "runs": []    
+            "id": "SRX3699748",
+            "runs": ["SRR6726733"]    
         }
     },
     {
@@ -811,8 +811,8 @@
         },
         "title": "yeastXR_64PP_B_20m",
         "SRA": {
-            "id": "SRR6726734",
-            "runs": []    
+            "id": "SRX3699749",
+            "runs": ["SRR6726734"]    
         }
     },
     {
@@ -829,8 +829,8 @@
         },
         "title": "arabidopsis_CPD_A_2",
         "SRA": {
-            "id": "SRR6451563",
-            "runs": []    
+            "id": "SRX3542457",
+            "runs": ["SRR6451563"]    
         }
     },
     {
@@ -847,8 +847,8 @@
         },
         "title": "arabidopsis_CPD_B_2",
         "SRA": {
-            "id": "SRR6451571",
-            "runs": []    
+            "id": "SRX3542465",
+            "runs": ["SRR6451571"]    
         }
     },
     {
@@ -865,8 +865,8 @@
         },
         "title": "arabidopsis_CPD_A_5",
         "SRA": {
-            "id": "SRR6451564",
-            "runs": []    
+            "id": "SRX3542458",
+            "runs": ["SRR6451564"]    
         }
     },
     {
@@ -883,8 +883,8 @@
         },
         "title": "arabidopsis_CPD_B_5",
         "SRA": {
-            "id": "SRR6451572",
-            "runs": []    
+            "id": "SRX3542466",
+            "runs": ["SRR6451572"]    
         }
     },
     {
@@ -901,8 +901,8 @@
         },
         "title": "arabidopsis_CPD_A_8",
         "SRA": {
-            "id": "SRR6451565",
-            "runs": []    
+            "id": "SRX3542459",
+            "runs": ["SRR6451565"]    
         }
     },
     {
@@ -919,8 +919,8 @@
         },
         "title": "arabidopsis_CPD_B_8",
         "SRA": {
-            "id": "SRR6451573",
-            "runs": []    
+            "id": "SRX3542467",
+            "runs": ["SRR6451573"]    
         }
     },
     {
@@ -937,8 +937,8 @@
         },
         "title": "arabidopsis_CPD_A_11",
         "SRA": {
-            "id": "SRR6451566",
-            "runs": []    
+            "id": "SRX3542460",
+            "runs": ["SRR6451566"]    
         }
     },
     {
@@ -955,8 +955,8 @@
         },
         "title": "arabidopsis_CPD_B_11",
         "SRA": {
-            "id": "SRR6451574",
-            "runs": []    
+            "id": "SRX3542468",
+            "runs": ["SRR6451574"]    
         }
     },
     {
@@ -973,8 +973,8 @@
         },
         "title": "arabidopsis_CPD_A_14",
         "SRA": {
-            "id": "SRR6451567",
-            "runs": []    
+            "id": "SRX3542461",
+            "runs": ["SRR6451567"]    
         }
     },
     {
@@ -991,8 +991,8 @@
         },
         "title": "arabidopsis_CPD_B_14",
         "SRA": {
-            "id": "SRR6451575",
-            "runs": []    
+            "id": "SRX3542469 ",
+            "runs": ["SRR6451575"]    
         }
     },
     {
@@ -1009,8 +1009,8 @@
         },
         "title": "arabidopsis_CPD_A_17",
         "SRA": {
-            "id": "SRR6451560",
-            "runs": []    
+            "id": "SRX3542454",
+            "runs": ["SRR6451560"]    
         }
     },
     {
@@ -1027,8 +1027,8 @@
         },
         "title": "arabidopsis_CPD_B_17",
         "SRA": {
-            "id": "SRR6451568",
-            "runs": []    
+            "id": "SRX3542462",
+            "runs": ["SRR6451568"]    
         }
     },
     {
@@ -1046,8 +1046,8 @@
         },
         "title": "mouseCirca_kidney_A_0",
         "SRA": {
-            "id": "SRR6659131",
-            "runs": []    
+            "id": "SRX3636258",
+            "runs": ["SRR6659131"]    
         }
     },
     {
@@ -1065,8 +1065,8 @@
         },
         "title": "mouseCirca_kidney_B_0",
         "SRA": {
-            "id": "SRR6659132",
-            "runs": []    
+            "id": "SRX3636259",
+            "runs": ["SRR6659132"]    
         }
     },
     {
@@ -1084,8 +1084,8 @@
         },
         "title": "mouseCirca_kidney_A_4",
         "SRA": {
-            "id": "SRR6659133",
-            "runs": []    
+            "id": "SRX3636260",
+            "runs": ["SRR6659133"]    
         }
     },
     {
@@ -1103,8 +1103,8 @@
         },
         "title": "mouseCirca_kidney_B_4",
         "SRA": {
-            "id": "SRR6659134",
-            "runs": []    
+            "id": "SRX3636261",
+            "runs": ["SRR6659134"]    
         }
     },
     {
@@ -1122,8 +1122,8 @@
         },
         "title": "mouseCirca_kidney_A_8",
         "SRA": {
-            "id": "SRR6659135",
-            "runs": []    
+            "id": "SRX3636262",
+            "runs": ["SRR6659135"]    
         }
     },
     {
@@ -1141,8 +1141,8 @@
         },
         "title": "mouseCirca_kidney_B_8",
         "SRA": {
-            "id": "SRR6659136",
-            "runs": []    
+            "id": "SRX3636263",
+            "runs": ["SRR6659136"]    
         }
     },
     {
@@ -1160,8 +1160,8 @@
         },
         "title": "mouseCirca_kidney_A_12",
         "SRA": {
-            "id": "SRR6659137",
-            "runs": []    
+            "id": "SRX3636264",
+            "runs": ["SRR6659137"]    
         }
     },
     {
@@ -1179,8 +1179,8 @@
         },
         "title": "mouseCirca_kidney_B_12",
         "SRA": {
-            "id": "SRR6659138",
-            "runs": []    
+            "id": "SRX3636265",
+            "runs": ["SRR6659138"]    
         }
     },
     {
@@ -1198,8 +1198,8 @@
         },
         "title": "mouseCirca_kidney_A_16",
         "SRA": {
-            "id": "SRR6659139",
-            "runs": []    
+            "id": "SRX3636266",
+            "runs": ["SRR6659139"]    
         }
     },
     {
@@ -1217,8 +1217,8 @@
         },
         "title": "mouseCirca_kidney_B_16",
         "SRA": {
-            "id": "SRR6659140",
-            "runs": []    
+            "id": "SRX3636267",
+            "runs": ["SRR6659140"]    
         }
     },
     {
@@ -1236,8 +1236,8 @@
         },
         "title": "mouseCirca_kidney_A_20",
         "SRA": {
-            "id": "SRR6659141",
-            "runs": []    
+            "id": "SRX3636268",
+            "runs": ["SRR6659141"]    
         }
     },
     {
@@ -1255,8 +1255,8 @@
         },
         "title": "mouseCirca_kidney_B_20",
         "SRA": {
-            "id": "SRR6659142",
-            "runs": []    
+            "id": "SRX3636269",
+            "runs": ["SRR6659142"]    
         }
     },
     {
@@ -1274,8 +1274,8 @@
         },
         "title": "mouseCirca_liver_A_0",
         "SRA": {
-            "id": "SRR6659143",
-            "runs": []    
+            "id": "SRX3636270",
+            "runs": ["SRR6659143"]    
         }
     },
     {
@@ -1293,8 +1293,8 @@
         },
         "title": "mouseCirca_liver_B_0",
         "SRA": {
-            "id": "SRR6659144",
-            "runs": []    
+            "id": "SRX3636271",
+            "runs": ["SRR6659144"]    
         }
     },
     {
@@ -1312,8 +1312,8 @@
         },
         "title": "mouseCirca_liver_A_4",
         "SRA": {
-            "id": "SRR6659145",
-            "runs": []    
+            "id": "SRX3636272",
+            "runs": ["SRR6659145"]    
         }
     },
     {
@@ -1331,8 +1331,8 @@
         },
         "title": "mouseCirca_liver_B_4",
         "SRA": {
-            "id": "SRR6659146",
-            "runs": []    
+            "id": "SRX3636273",
+            "runs": ["SRR6659146"]    
         }
     },
     {
@@ -1350,8 +1350,8 @@
         },
         "title": "mouseCirca_liver_A_8",
         "SRA": {
-            "id": "SRR6659147",
-            "runs": []    
+            "id": "SRX3636274",
+            "runs": ["SRR6659147"]    
         }
     },
     {
@@ -1369,8 +1369,8 @@
         },
         "title": "mouseCirca_liver_B_8",
         "SRA": {
-            "id": "SRR6659148",
-            "runs": []    
+            "id": "SRX3636275",
+            "runs": ["SRR6659148"]    
         }
     },
     {
@@ -1388,8 +1388,8 @@
         },
         "title": "mouseCirca_liver_A_12",
         "SRA": {
-            "id": "SRR6659149",
-            "runs": []    
+            "id": "SRX3636276",
+            "runs": ["SRR6659149"]    
         }
     },
     {
@@ -1407,8 +1407,8 @@
         },
         "title": "mouseCirca_liver_B_12",
         "SRA": {
-            "id": "SRR6659150",
-            "runs": []    
+            "id": "SRX3636277",
+            "runs": ["SRR6659150"]    
         }
     },
     {
@@ -1426,8 +1426,8 @@
         },
         "title": "mouseCirca_liver_A_16",
         "SRA": {
-            "id": "SRR6659151",
-            "runs": []    
+            "id": "SRX3636278",
+            "runs": ["SRR6659151"]    
         }
     },
     {
@@ -1445,8 +1445,8 @@
         },
         "title": "mouseCirca_liver_B_16",
         "SRA": {
-            "id": "SRR6659152",
-            "runs": []    
+            "id": "SRX3636279",
+            "runs": ["SRR6659152"]    
         }
     },
     {
@@ -1464,8 +1464,8 @@
         },
         "title": "mouseCirca_liver_A_20",
         "SRA": {
-            "id": "SRR6659153",
-            "runs": []    
+            "id": "SRX3636280",
+            "runs": ["SRR6659153"]    
         }
     },
     {
@@ -1483,8 +1483,8 @@
         },
         "title": "mouseCirca_liver_B_20",
         "SRA": {
-            "id": "SRR6659154",
-            "runs": []    
+            "id": "SRX3636281",
+            "runs": ["SRR6659154"]    
         }
     },
     {
@@ -1502,8 +1502,8 @@
         },
         "title": "ecoli_WT_A",
         "SRA": {
-            "id": "SRR5125157",
-            "runs": []    
+            "id": "SRX2439928",
+            "runs": ["SRR5125157"]    
         }
     },
     {
@@ -1521,8 +1521,8 @@
         },
         "title": "ecoli_WT_B",
         "SRA": {
-            "id": "SRR5125158",
-            "runs": []    
+            "id": "SRX2439929",
+            "runs": ["SRR5125158"]    
         }
     },
     {
@@ -1540,8 +1540,8 @@
         },
         "title": "ecoli_phr_A",
         "SRA": {
-            "id": "SRR5125159",
-            "runs": []    
+            "id": "SRX2439930",
+            "runs": ["SRR5125159"]    
         }
     },
     {
@@ -1559,8 +1559,8 @@
         },
         "title": "ecoli_phr_B",
         "SRA": {
-            "id": "SRR5125160",
-            "runs": []    
+            "id": "SRX2439931",
+            "runs": ["SRR5125160"]    
         }
     },
     {
@@ -1578,8 +1578,8 @@
         },
         "title": "ecoli_mfd_A",
         "SRA": {
-            "id": "SRR5125161",
-            "runs": []    
+            "id": "SRX2439932",
+            "runs": ["SRR5125161"]    
         }
     },
     {
@@ -1597,8 +1597,8 @@
         },
         "title": "ecoli_mfd_B",
         "SRA": {
-            "id": "SRR5125162",
-            "runs": []    
+            "id": "SRX2439933",
+            "runs": ["SRR5125162"]    
         }
     },
     {
@@ -1616,8 +1616,8 @@
         },
         "title": "ecoli_uvrD_A",
         "SRA": {
-            "id": "SRR5125163",
-            "runs": []    
+            "id": "SRX2439934",
+            "runs": ["SRR5125163"]    
         }
     },
     {
@@ -1635,8 +1635,8 @@
         },
         "title": "ecoli_uvrD_B",
         "SRA": {
-            "id": "SRR5125164",
-            "runs": []    
+            "id": "SRX2439935 ",
+            "runs": ["SRR5125164"]    
         }
     },
     {
@@ -1653,8 +1653,8 @@
         },
         "title": "tXR_CPD_A",
         "SRA": {
-            "id": "SRR5444675",
-            "runs": []    
+            "id": "SRX2733734",
+            "runs": ["SRR5444675"]    
         }
     },
     {
@@ -1671,8 +1671,8 @@
         },
         "title": "tXR_CPD_B",
         "SRA": {
-            "id": "SRR5444676",
-            "runs": []    
+            "id": "SRX2733735",
+            "runs": ["SRR5444676"]    
         }
     },
     {
@@ -1689,8 +1689,8 @@
         },
         "title": "tXR_BPDE_A",
         "SRA": {
-            "id": "SRR5444677",
-            "runs": []    
+            "id": "SRX2733736",
+            "runs": ["SRR5444677"]    
         }
     },
     {
@@ -1707,8 +1707,8 @@
         },
         "title": "tXR_BPDE_B",
         "SRA": {
-            "id": "SRR5444678",
-            "runs": []    
+            "id": "SRX2733737",
+            "runs": ["SRR5444678"]    
         }
     },
     {
@@ -1726,8 +1726,8 @@
         },
         "title": "NHF1_XR-seq_TCR_CPD_A",
         "SRA": {
-            "id": "SRR5444679","SRR5444680"
-            "runs": []    
+            "id": "SRX2733738",
+            "runs": ["SRR5444679","SRR5444680"]    
         }
     },
     {
@@ -1745,8 +1745,8 @@
         },
         "title": "NHF1_XR-seq_TCR_CPD_B",
         "SRA": {
-            "id": "SRR5444681","SRR5444682"
-            "runs": []    
+            "id": "SRX2733739 ",
+            "runs": ["SRR5444681","SRR5444682"]    
         }
     },
     {
@@ -1764,8 +1764,8 @@
         },
         "title": "NHF1_XR-seq_TCR_64PP_A",
         "SRA": {
-            "id": "SRR5444683","SRR5444684"
-            "runs": []    
+            "id": "SRX2733740",
+            "runs": ["SRR5444683","SRR5444684"]    
         }
     },
     {
@@ -1783,8 +1783,8 @@
         },
         "title": "NHF1_XR-seq_TCR_64PP_B",
         "SRA": {
-            "id": "SRR5444685","SRR5444686"
-            "runs": []    
+            "id": "SRX2733741",
+            "runs": ["SRR5444685","SRR5444686"]    
         }
     },
     {
@@ -1802,8 +1802,8 @@
         },
         "title": "XPC_XR-seq_TCR_CPD_A",
         "SRA": {
-            "id": "SRR1976064",
-            "runs": []    
+            "id": "SRX997098 ",
+            "runs": ["SRR1976064"]    
         }
     },
     {
@@ -1821,8 +1821,8 @@
         },
         "title": "XPC_XR-seq_TCR_CPD_B",
         "SRA": {
-            "id": "SRR1976065",
-            "runs": []    
+            "id": "SRX997099",
+            "runs": ["SRR1976065"]    
         }
     },
     {
@@ -1840,8 +1840,8 @@
         },
         "title": "XPC_XR-seq_TCR_64PP_A",
         "SRA": {
-            "id": "SRR1976066",
-            "runs": []    
+            "id": "SRX997100",
+            "runs": ["SRR1976066"]    
         }
     },
     {
@@ -1859,8 +1859,8 @@
         },
         "title": "XPC_XR-seq_TCR_64PP_B",
         "SRA": {
-            "id": "SRR1976067",
-            "runs": []    
+            "id": "SRX997101    ",
+            "runs": ["SRR1976067"]    
         }
     },
     {
@@ -1878,8 +1878,8 @@
         },
         "title": "CSB_XR-seq_TCR_CPD_A",
         "SRA": {
-            "id": "SRR1976068",
-            "runs": []    
+            "id": "SRX997102",
+            "runs": ["SRR1976068"]    
         }
     },
     {
@@ -1897,8 +1897,8 @@
         },
         "title": "CSB_XR-seq_TCR_CPD_B",
         "SRA": {
-            "id": "SRR1976069",
-            "runs": []    
+            "id": "SRX997103",
+            "runs": ["SRR1976069"]    
         }
     },
     {
@@ -1916,8 +1916,8 @@
         },
         "title": "CSB_XR-seq_TCR_64PP_A",
         "SRA": {
-            "id": "SRR1976070",
-            "runs": []    
+            "id": "SRX997104",
+            "runs": ["SRR1976070"]    
         }
     },
     {
@@ -1935,8 +1935,8 @@
         },
         "title": "CSB_XR-seq_TCR_64PP_B",
         "SRA": {
-            "id": "SRR1976071",
-            "runs": []    
+            "id": "SRX997105",
+            "runs": ["SRR1976071"]    
         }
     }
     
