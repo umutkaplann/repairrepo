@@ -70,6 +70,45 @@
         "pipeline": {
             "reference": "GRCh38"
         } 
-    }
-
-}
+    },
+     "Saccharomyces_cerevisiae_XR-seq": {
+        "pmid": 29581276,
+        "doi": "10.1073/pnas.1801687115",
+        "GEO_ID":"GSE110621",
+        "published": true,
+        "pipeline": {
+            "reference": "?"
+            
+                }
+         },
+    "Mus_musculus-seq": {
+        "pmid": 29735688,
+        "doi": "10.1073/pnas.1804493115",
+        "GEO_ID":"GSE109938",
+        "published": true,
+        "pipeline": {
+            "reference": "?"
+            
+                }
+            },
+    "Arabidopsis_thaliana_XR-seq": {
+        "pmid": 29666379,
+        "doi": "10.1038/s41467-018-03922-5",
+        "GEO_ID":"GSE108932",
+        "published": true,
+        "pipeline": {
+            "reference": "?"
+        
+            }
+        },
+    "Escherichia_coli_XR-seq": {
+        "pmid": 28167766,
+        "doi": "10.1073/pnas.1700230114",
+        "GEO_ID":"GSE92734",
+        "published": true,
+        "pipeline": {
+            "reference": "?"
+                
+                    }
+                }
+            }
