@@ -100,5 +100,26 @@
             "reference": "Nc_00913.2"
                 
                     }
+                },
+    "Homo_sapiens_XR-seq": {
+        "pmid": 27036006,
+        "doi": "10.1073/pnas.1603388113",
+        "GEO_ID":"GSE76391",
+        "published": true,
+        "pipeline": {
+            "reference": "hg19"
+            
                 }
-            }
+        },
+    
+    "mouse_organs_cisplatin_repair": {
+        "pmid": ,
+        "doi": "",
+        "GEO_ID":"GSE117167",
+        "published": true,
+        "pipeline": {
+            "reference": ""
+            
+                }
+            },
+                

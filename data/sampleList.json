@@ -1940,726 +1940,833 @@
         }
     },
     {
-        "organism": "Mus musculus",
-        "experiment": "Mus_musculus-seq ",
-        "cell_line": false,
-        "tissue":" kidney",
-        "damage": "WTZ",
-        "protocol": "XR-seq",
-        "replicate": "A",
-        "treatment": {
-            "time_after_treatment": "2h",
-            "ZT": 0        
-        },
-        "title": "WTZT0KIDNEY rep1",
-        "SRA": {
-            "id": "SRX3636258",
-            "runs": ["SRR6659131"]    
-        }
-    },
-    {
-        "organism": "Mus musculus",
-        "experiment": "Mus_musculus-seq ",
-        "cell_line": false,
-        "tissue":" kidney",
-        "damage": "WTZ",
-        "protocol": "XR-seq",
-        "replicate": "B",
-        "treatment": {
-            "time_after_treatment": "2h",
-            "ZT": 0        
-        },
-        "title": "WTZT0KIDNEY rep2",
-        "SRA": {
-            "id": "SRX3636259",
-            "runs": ["SRR6659132"]    
-        }
-    },
-    {
-    "organism": "Mus musculus",
-    "experiment": "Mus_musculus-seq ",
-    "cell_line": false,
-    "tissue":" kidney",
-    "damage": "WTZ",
-    "protocol": "XR-seq",
-    "replicate": "A",
-    "treatment": {
-        "time_after_treatment": "2h",
-        "ZT": 4        
-    },
-    "title": "WTZT4KIDNEY rep1",
-    "SRA": {
-        "id": "SRX3636260",
-        "runs": ["SRR6659133"] 
-     }   
-    },
-    {
-        "organism": "Mus musculus",
-        "experiment": "Mus_musculus-seq ",
-        "cell_line": false,
-        "tissue":" kidney",
-        "damage": "WTZ",
-        "protocol": "XR-seq",
-        "replicate": "B",
-        "treatment": {
-            "time_after_treatment": "2h",
-            "ZT": 4        
-        },
-        "title": "WTZT4KIDNEY rep2",
-        "SRA": {
-            "id": "SRX3636261",
-            "runs": ["SRR6659134"] 
-        }   
-    },
-    {
-        "organism": "Mus musculus",
-        "experiment": "Mus_musculus-seq ",
-        "cell_line": false,
-        "tissue":" kidney",
-        "damage": "WTZ",
-        "protocol": "XR-seq",
-        "replicate": "A",
-        "treatment": {
-            "time_after_treatment": "2h",
-            "ZT": 8        
-        },
-        "title": "WTZT8KIDNEY rep1",
-        "SRA": {
-            "id": "SRX3636262",
-            "runs": ["SRR6659135"] 
-        }   
-    },   
-    {
-        "organism": "Mus musculus",
-        "experiment": "Mus_musculus-seq ",
-        "cell_line": false,
-        "tissue":" kidney",
-        "damage": "WTZ",
-        "protocol": "XR-seq",
-        "replicate": "B",
-        "treatment": {
-            "time_after_treatment": "2h",
-            "ZT": 8        
-        },
-        "title": "WTZT8KIDNEY rep2",
-        "SRA": {
-            "id": "SRX3636263",
-            "runs": ["SRR6659136"] 
-        }   
-    },   
-    {
-        "organism": "Mus musculus",
-        "experiment": "Mus_musculus-seq ",
-        "cell_line": false,
-        "tissue":" kidney",
-        "damage": "WTZ",
-        "protocol": "XR-seq",
-        "replicate": "A",
-        "treatment": {
-            "time_after_treatment": "2h",
-            "ZT": 12        
-        },
-        "title": "WTZT12KIDNEY rep1",
-        "SRA": {
-            "id": "SRX3636264",
-            "runs": ["SRR6659137"] 
-        }   
-    },   
-    {
-        "organism": "Mus musculus",
-        "experiment": "Mus_musculus-seq ",
-        "cell_line": false,
-        "tissue":" kidney",
-        "damage": "WTZ",
-        "protocol": "XR-seq",
-        "replicate": "B",
-        "treatment": {
-            "time_after_treatment": "2h",
-            "ZT": 12        
-        },
-        "title": "WTZT12KIDNEY rep2",
-        "SRA": {
-            "id": "SRX3636265",
-            "runs": ["SRR6659138"] 
-        }   
-    },
-    {
-        "organism": "Mus musculus",
-        "experiment": "Mus_musculus-seq ",
-        "cell_line": false,
-        "tissue":" kidney",
-        "damage": "WTZ",
-        "protocol": "XR-seq",
-        "replicate": "A",
-        "treatment": {
-            "time_after_treatment": "2h",
-            "ZT": 16        
-        },
-        "title": "WTZT16KIDNEY rep1",
-        "SRA": {
-            "id": "SRX3636266",
-            "runs": ["SRR6659139"] 
-        }   
-    },    
-    {
-        "organism": "Mus musculus",
-        "experiment": "Mus_musculus-seq ",
-        "cell_line": false,
-        "tissue":" kidney",
-        "damage": "WTZ",
-        "protocol": "XR-seq",
-        "replicate": "B",
-        "treatment": {
-            "time_after_treatment": "2h",
-            "ZT": 16        
-        },
-        "title": "WTZT16KIDNEY rep2",
-        "SRA": {
-            "id": "SRX3636267",
-            "runs": ["SRR6659140"] 
-        }   
-    },
-    {
-        "organism": "Mus musculus",
-        "experiment": "Mus_musculus-seq ",
-        "cell_line": false,
-        "tissue":" kidney",
-        "damage": "WTZ",
-        "protocol": "XR-seq",
-        "replicate": "A",
-        "treatment": {
-            "time_after_treatment": "2h",
-            "ZT": 20        
-        },
-        "title": "WTZT20KIDNEY rep1",
-        "SRA": {
-            "id": "SRX3636268",
-            "runs": ["SRR6659141"] 
-        }   
-    },
-    {
-        "organism": "Mus musculus",
-        "experiment": "Mus_musculus-seq ",
-        "cell_line": false,
-        "tissue":" kidney",
-        "damage": "WTZ",
-        "protocol": "XR-seq",
-        "replicate": "B",
-        "treatment": {
-            "time_after_treatment": "2h",
-            "ZT": 20        
-        },
-        "title": "WTZT20KIDNEY rep2",
-        "SRA": {
-            "id": "SRX3636269",
-            "runs": ["SRR6659142"] 
-        }   
-    },
-    {
-        "organism": "Mus musculus",
-        "experiment": "Mus_musculus-seq ",
-        "cell_line": false,
-        "tissue":"liver",
-        "damage": "WTZ",
-        "protocol": "XR-seq",
-        "replicate": "A",
-        "treatment": {
-            "time_after_treatment": "2h",
-            "ZT": 0        
-        },
-        "title": "WTZT0LIVER rep1",
-        "SRA": {
-            "id": "SRX3636270",
-            "runs": ["SRR6659143"] 
-        }   
-    },
-    {
-        "organism": "Mus musculus",
-        "experiment": "Mus_musculus-seq ",
-        "cell_line": false,
-        "tissue":"liver",
-        "damage": "WTZ",
-        "protocol": "XR-seq",
-        "replicate": "B",
-        "treatment": {
-            "time_after_treatment": "2h",
-            "ZT": 0        
-        },
-        "title": "WTZT0LIVER rep2",
-        "SRA": {
-            "id": "SRX3636271",
-            "runs": ["SRR6659144"] 
-        }   
-    },
-    {
-        "organism": "Mus musculus",
-        "experiment": "Mus_musculus-seq ",
-        "cell_line": false,
-        "tissue":"liver",
-        "damage": "WTZ",
-        "protocol": "XR-seq",
-        "replicate": "A",
-        "treatment": {
-            "time_after_treatment": "2h",
-            "ZT": 4        
-        },
-        "title": "WTZT4LIVER rep1",
-        "SRA": {
-            "id": "SRX3636272",
-            "runs": ["SRR6659145"] 
-        }   
-    },
-    {
-        "organism": "Mus musculus",
-        "experiment": "Mus_musculus-seq ",
-        "cell_line": false,
-        "tissue":"liver",
-        "damage": "WTZ",
-        "protocol": "XR-seq",
-        "replicate": "B",
-        "treatment": {
-            "time_after_treatment": "2h",
-            "ZT": 4        
-        },
-        "title": "WTZT4LIVER rep2",
-        "SRA": {
-            "id": "SRX3636273",
-            "runs": ["SRR6659146"] 
-        }   
-    },
-    {
-        "organism": "Mus musculus",
-        "experiment": "Mus_musculus-seq ",
-        "cell_line": false,
-        "tissue":"liver",
-        "damage": "WTZ",
-        "protocol": "XR-seq",
-        "replicate": "A",
-        "treatment": {
-            "time_after_treatment": "2h",
-            "ZT": 8        
-        },
-        "title": "WTZT8LIVER rep1",
-        "SRA": {
-            "id": "SRX3636274",
-            "runs": ["SRR6659147"] 
-        }   
-    },
-    {
-        "organism": "Mus musculus",
-        "experiment": "Mus_musculus-seq ",
-        "cell_line": false,
-        "tissue":"liver",
-        "damage": "WTZ",
-        "protocol": "XR-seq",
-        "replicate": "B",
-        "treatment": {
-            "time_after_treatment": "2h",
-            "ZT": 8        
-        },
-        "title": "WTZT8LIVER rep2",
-        "SRA": {
-            "id": "SRX3636275",
-            "runs": ["SRR6659148"] 
-        }   
-    },
-    {
-        "organism": "Mus musculus",
-        "experiment": "Mus_musculus-seq ",
-        "cell_line": false,
-        "tissue":"liver",
-        "damage": "WTZ",
-        "protocol": "XR-seq",
-        "replicate": "A",
-        "treatment": {
-            "time_after_treatment": "2h",
-            "ZT": 12        
-        },
-        "title": "WTZT12LIVER rep1",
-        "SRA": {
-            "id": "SRX3636276",
-            "runs": ["SRR6659149"] 
-        }   
-    },
-    {
-        "organism": "Mus musculus",
-        "experiment": "Mus_musculus-seq ",
-        "cell_line": false,
-        "tissue":"liver",
-        "damage": "WTZ",
-        "protocol": "XR-seq",
-        "replicate": "B",
-        "treatment": {
-            "time_after_treatment": "2h",
-            "ZT": 12        
-        },
-        "title": "WTZT12LIVER rep2",
-        "SRA": {
-            "id": "SRX3636277",
-            "runs": ["SRR6659150"] 
-        }   
-    },
-    {
-        "organism": "Mus musculus",
-        "experiment": "Mus_musculus-seq ",
-        "cell_line": false,
-        "tissue":"liver",
-        "damage": "WTZ",
-        "protocol": "XR-seq",
-        "replicate": "A",
-        "treatment": {
-            "time_after_treatment": "2h",
-            "ZT": 16        
-        },
-        "title": "WTZT16LIVER rep1",
-        "SRA": {
-            "id": "SRX3636278",
-            "runs": ["SRR6659151"] 
-        }   
-    },
-    {
-        "organism": "Mus musculus",
-        "experiment": "Mus_musculus-seq ",
-        "cell_line": false,
-        "tissue":"liver",
-        "damage": "WTZ",
-        "protocol": "XR-seq",
-        "replicate": "B",
-        "treatment": {
-            "time_after_treatment": "2h",
-            "ZT": 16        
-        },
-        "title": "WTZT16LIVER rep2",
-        "SRA": {
-            "id": "SRX3636279",
-            "runs": ["SRR6659152"] 
-        }   
-    },
-    {
-        "organism": "Mus musculus",
-        "experiment": "Mus_musculus-seq ",
-        "cell_line": false,
-        "tissue":"liver",
-        "damage": "WTZ",
-        "protocol": "XR-seq",
-        "replicate": "A",
-        "treatment": {
-            "time_after_treatment": "2h",
-            "ZT": 20        
-        },
-        "title": "WTZT20LIVER rep1",
-        "SRA": {
-            "id": "SRX3636280",
-            "runs": ["SRR6659153"] 
-        }   
-    },
-    {
-        "organism": "Mus musculus",
-        "experiment": "Mus_musculus-seq ",
-        "cell_line": false,
-        "tissue":"liver",
-        "damage": "WTZ",
-        "protocol": "XR-seq",
-        "replicate": "B",
-        "treatment": {
-            "time_after_treatment": "2h",
-            "ZT": 20        
-        },
-        "title": "WTZT20LIVER rep2",
-        "SRA": {
-            "id": "SRX3636281",
-            "runs": ["SRR6659154"] 
-        }   
-    },
-    {
-        "organism": "Saccharomyces cerevisiae",
-        "experiment": "Saccharomyces_cerevisiae_XR-seq",
-        "cell_line": false,
-        "tissue":false,
+        "organism": "Homo sapiens",
+        "experiment": "Homo_sapiens_XR-seq",
+        "cell_line":"NHF1",
+        "tissue": false,
         "damage": "UV_CPD",
         "protocol": "XR-seq",
         "replicate": "A",
         "treatment": {
-            "Incubation_time": "5m"
-         },
-        "title": "CPD_XR-seq_5M_rep1",
+            "time_after_treatment": "1h"
+            
+        },
+        "title": "NHF1_CPD_1h_XR-seq_Rep1",
         "SRA": {
-            "id": "SRX3699740",
-            "runs": ["SRR6726725"] 
-        }   
+            "id": "SRX1506811",
+            "runs": ["SRR3062593","SRR3062594","SRR3062595"] 
+            }   
     },
     {
-        "organism": "Saccharomyces cerevisiae",
-        "experiment": "Saccharomyces_cerevisiae_XR-seq",
-        "cell_line": false,
-        "tissue":false,
+        "organism": "Homo sapiens",
+        "experiment": "Homo_sapiens_XR-seq",
+        "cell_line":"NHF1",
+        "tissue": false,
         "damage": "UV_CPD",
         "protocol": "XR-seq",
         "replicate": "B",
         "treatment": {
-            "Incubation_time": "5m"
-         },
-        "title": "CPD_XR-seq_5M_rep2",
+            "time_after_treatment": "1h"
+                
+        },
+        "title": "NHF1_CPD_1h_XR-seq_Rep2",
         "SRA": {
-            "id": "SRX3699741",
-            "runs": ["SRR6726726"] 
-        }   
+            "id": "SRX1506812",
+            "runs": ["SRR3062596","SRR3062597","SRR3062598"] 
+             }   
     },
     {
-        "organism": "Saccharomyces cerevisiae",
-        "experiment": "Saccharomyces_cerevisiae_XR-seq",
-        "cell_line": false,
-        "tissue":false,
+        "organism": "Homo sapiens",
+        "experiment": "Homo_sapiens_XR-seq",
+        "cell_line":"NHF1",
+        "tissue": false,
         "damage": "UV_CPD",
         "protocol": "XR-seq",
         "replicate": "A",
         "treatment": {
-            "Incubation_time": "20m"
-         },
-        "title": "CPD_XR-seq_20M_rep1",
+            "time_after_treatment": "4h"
+                    
+        },
+        "title": "NHF1_CPD_4h_XR-seq_Rep1",
         "SRA": {
-            "id": "SRX3699742",
-            "runs": ["SRR6726727"] 
-        }   
+            "id": "SRX1506813",
+             "runs": ["SRR3062599","SRR3062600","SRR3062601"] 
+             }   
     },
     {
-        "organism": "Saccharomyces cerevisiae",
-        "experiment": "Saccharomyces_cerevisiae_XR-seq",
-        "cell_line": false,
-        "tissue":false,
+        "organism": "Homo sapiens",
+        "experiment": "Homo_sapiens_XR-seq",
+        "cell_line":"NHF1",
+        "tissue": false,
         "damage": "UV_CPD",
         "protocol": "XR-seq",
         "replicate": "B",
         "treatment": {
-            "Incubation_time": "20m"
-         },
-        "title": "CPD_XR-seq_20M_rep2",
+            "time_after_treatment": "4h"
+                    
+        },
+        "title": "NHF1_CPD_4h_XR-seq_Rep2",
         "SRA": {
-            "id": "SRX3699743",
-            "runs": ["SRR6726728"] 
-        }   
+            "id": "SRX1506814",
+             "runs": ["SRR3062602","SRR3062603","SRR3062604"] 
+             }   
     },
     {
-        "organism": "Saccharomyces cerevisiae",
-        "experiment": "Saccharomyces_cerevisiae_XR-seq",
-        "cell_line": false,
-        "tissue":false,
+        "organism": "Homo sapiens",
+        "experiment": "Homo_sapiens_XR-seq",
+        "cell_line":"NHF1",
+        "tissue": false,
         "damage": "UV_CPD",
         "protocol": "XR-seq",
         "replicate": "A",
         "treatment": {
-            "Incubation_time": "1h"
-         },
-        "title": "CPD_XR-seq_1H_rep1",
+            "time_after_treatment": "8h"
+                    
+        },
+        "title": "NHF1_CPD_8h_XR-seq_Rep1",
         "SRA": {
-            "id": "SRX3699744",
-            "runs": ["SRR6726729"] 
-        }   
+            "id": "SRX1506815",
+             "runs": ["SRR3062605","SRR3062606","SRR3062607"] 
+             }   
     },
     {
-        "organism": "Saccharomyces cerevisiae",
-        "experiment": "Saccharomyces_cerevisiae_XR-seq",
-        "cell_line": false,
-        "tissue":false,
+        "organism": "Homo sapiens",
+        "experiment": "Homo_sapiens_XR-seq",
+        "cell_line":"NHF1",
+        "tissue": false,
         "damage": "UV_CPD",
         "protocol": "XR-seq",
         "replicate": "B",
         "treatment": {
-            "Incubation_time": "1h"
-         },
-        "title": "CPD_XR-seq_1H_rep2",
+            "time_after_treatment": "8h"
+                    
+        },
+        "title": "NHF1_CPD_8h_XR-seq_Rep2",
         "SRA": {
-            "id": "SRX3699745",
-            "runs": ["SRR6726730"] 
-        }   
+            "id": "SRX1506816",
+             "runs": ["SRR3062608","SRR3062609","SRR3062610"] 
+             }   
     },
     {
-        "organism": "Saccharomyces cerevisiae",
-        "experiment": "Saccharomyces_cerevisiae_XR-seq",
-        "cell_line": false,
-        "tissue":false,
+        "organism": "Homo sapiens",
+        "experiment": "Homo_sapiens_XR-seq",
+        "cell_line":"NHF1",
+        "tissue": false,
+        "damage": "UV_CPD",
+        "protocol": "XR-seq",
+        "replicate": "A",
+        "treatment": {
+            "time_after_treatment": "16h"
+                    
+        },
+        "title": "NHF1_CPD_16h_XR-seq_Rep1",
+        "SRA": {
+            "id": "SRX1506817",
+             "runs": ["SRR3062611","SRR3062612"] 
+             }   
+    },
+    {
+        "organism": "Homo sapiens",
+        "experiment": "Homo_sapiens_XR-seq",
+        "cell_line":"NHF1",
+        "tissue": false,
+        "damage": "UV_CPD",
+        "protocol": "XR-seq",
+        "replicate": "B",
+        "treatment": {
+            "time_after_treatment": "16h"
+                    
+        },
+        "title": "NHF1_CPD_16h_XR-seq_Rep2",
+        "SRA": {
+            "id": "SRX1506818",
+             "runs": ["SRR3062613","SRR3062614"] 
+             }   
+    },
+    {
+        "organism": "Homo sapiens",
+        "experiment": "Homo_sapiens_XR-seq",
+        "cell_line":"NHF1",
+        "tissue": false,
+        "damage": "UV_CPD",
+        "protocol": "XR-seq",
+        "replicate": "A",
+        "treatment": {
+            "time_after_treatment": "24h"
+                    
+        },
+        "title": "NHF1_CPD_24h_XR-seq_Rep1",
+        "SRA": {
+            "id": "SRX1506819",
+             "runs": ["SRR3062615","SRR3062616","SRR3062617"] 
+             }   
+    },
+    {
+        "organism": "Homo sapiens",
+        "experiment": "Homo_sapiens_XR-seq",
+        "cell_line":"NHF1",
+        "tissue": false,
+        "damage": "UV_CPD",
+        "protocol": "XR-seq",
+        "replicate": "B",
+        "treatment": {
+            "time_after_treatment": "24h"
+                    
+        },
+        "title": "NHF1_CPD_24h_XR-seq_Rep2",
+        "SRA": {
+            "id": "SRX1506820",
+             "runs": ["SRR3062618","SRR3062619","SRR3062620"] 
+             }   
+    },
+    {
+        "organism": "Homo sapiens",
+        "experiment": "Homo_sapiens_XR-seq",
+        "cell_line":"NHF1",
+        "tissue": false,
+        "damage": "UV_CPD",
+        "protocol": "XR-seq",
+        "replicate": "A",
+        "treatment": {
+            "time_after_treatment": "48h"
+                    
+        },
+        "title": "NHF1_CPD_48h_XR-seq_Rep1",
+        "SRA": {
+            "id": "SRX1506821",
+             "runs": ["SRR3062621","SRR3062622","SRR3062623"] 
+             }   
+    },
+    {
+        "organism": "Homo sapiens",
+        "experiment": "Homo_sapiens_XR-seq",
+        "cell_line":"NHF1",
+        "tissue": false,
+        "damage": "UV_CPD",
+        "protocol": "XR-seq",
+        "replicate": "B",
+        "treatment": {
+            "time_after_treatment": "48h"
+                    
+        },
+        "title": "NHF1_CPD_48h_XR-seq_Rep2",
+        "SRA": {
+            "id": "SRX1506822",
+             "runs": ["SRR3062624","SRR3062625","SRR3062626"] 
+             }   
+    },
+    {
+        "organism": "Homo sapiens",
+        "experiment": "Homo_sapiens_XR-seq",
+        "cell_line":"NHF1",
+        "tissue": false,
         "damage": "UV_64PP",
         "protocol": "XR-seq",
         "replicate": "A",
         "treatment": {
-            "Incubation_time": "5m"
-         },
-        "title": "(6-4)PP_XR-seq_5M_rep1",
+            "time_after_treatment": "5min   "
+                    
+        },
+        "title": "NHF1_(6-4)PP_5min_XR-seq_Rep1",
         "SRA": {
-            "id": "SRX3699746",
-            "runs": ["SRR6726731"] 
-        }   
+            "id": "SRX1506823",
+             "runs": ["SRR3062627","SRR3062628","SRR3062629"] 
+             }   
     },
     {
-        "organism": "Saccharomyces cerevisiae",
-        "experiment": "Saccharomyces_cerevisiae_XR-seq",
-        "cell_line": false,
-        "tissue":false,
+        "organism": "Homo sapiens",
+        "experiment": "Homo_sapiens_XR-seq",
+        "cell_line":"NHF1",
+        "tissue": false,
         "damage": "UV_64PP",
         "protocol": "XR-seq",
         "replicate": "B",
         "treatment": {
-            "Incubation_time": "5m"
-         },
-        "title": "(6-4)PP_XR-seq_5M_rep2",
+            "time_after_treatment": "5min   "
+                    
+        },
+        "title": "NHF1_(6-4)PP_5min_XR-seq_Rep2",
         "SRA": {
-            "id": "SRX3699747",
-            "runs": ["SRR6726732"] 
-        }   
+            "id": "SRX1506824",
+             "runs": ["SRR3062630","SRR3062631","SRR3062632"] 
+             }   
     },
     {
-        "organism": "Saccharomyces cerevisiae",
-        "experiment": "Saccharomyces_cerevisiae_XR-seq",
-        "cell_line": false,
-        "tissue":false,
+        "organism": "Homo sapiens",
+        "experiment": "Homo_sapiens_XR-seq",
+        "cell_line":"NHF1",
+        "tissue": false,
         "damage": "UV_64PP",
         "protocol": "XR-seq",
         "replicate": "A",
         "treatment": {
-            "Incubation_time": "20m"
-         },
-        "title": "(6-4)PP_XR-seq_20M_rep1",
+            "time_after_treatment": "20min   "
+                    
+        },
+        "title": "NHF1_(6-4)PP_5min_XR-seq_Rep1",
         "SRA": {
-            "id": "SRX3699748",
-            "runs": ["SRR6726733"] 
-        }   
+            "id": "SRX1506825",
+             "runs": ["SRR3062633","SRR3062634"] 
+             }   
     },
     {
-        "organism": "Saccharomyces cerevisiae",
-        "experiment": "Saccharomyces_cerevisiae_XR-seq",
-        "cell_line": false,
-        "tissue":false,
+        "organism": "Homo sapiens",
+        "experiment": "Homo_sapiens_XR-seq",
+        "cell_line":"NHF1",
+        "tissue": false,
         "damage": "UV_64PP",
         "protocol": "XR-seq",
         "replicate": "B",
         "treatment": {
-            "Incubation_time": "20m"
-         },
-        "title": "(6-4)PP_XR-seq_20M_rep2",
+            "time_after_treatment": "20min"
+                    
+        },
+        "title": "NHF1_(6-4)PP_5min_XR-seq_Rep2",
         "SRA": {
-            "id": "SRX3699749",
-            "runs": ["SRR6726734"] 
-        }   
+            "id": "SRX1506826",
+             "runs": ["SRR3062635","SRR3062636"] 
+             }   
     },
     {
-        "organism": "Escherichia coli",
-        "experiment": "Escherichia_coli_XR-seq",
-        "cell_line": false,
-        "tissue":false,
-        "damage": "WT",
+        "organism": "Homo sapiens",
+        "experiment": "Homo_sapiens_XR-seq",
+        "cell_line":"NHF1",
+        "tissue": false,
+        "damage": "UV_64PP",
         "protocol": "XR-seq",
         "replicate": "A",
         "treatment": {
-          
-         },
-        "title": "WT_XR-seq_exp1",
+            "time_after_treatment": "1h"
+                    
+        },
+        "title": "NHF1_(6-4)PP_1h_XR-seq_Rep1",
         "SRA": {
-            "id": "SRX2439928",
-            "runs": ["SRR5125157"] 
-        }   
+            "id": "SRX1506827",
+             "runs": ["SRR3062637","SRR3062638"] 
+             }   
     },
     {
-        "organism": "Escherichia coli",
-        "experiment": "Escherichia_coli_XR-seq",
-        "cell_line": false,
-        "tissue":false,
-        "damage": "WT",
+        "organism": "Homo sapiens",
+        "experiment": "Homo_sapiens_XR-seq",
+        "cell_line":"NHF1",
+        "tissue": false,
+        "damage": "UV_64PP",
         "protocol": "XR-seq",
         "replicate": "B",
         "treatment": {
-          
-         },
-        "title": "WT_XR-seq_exp2",
+            "time_after_treatment": "1h"
+                    
+        },
+        "title": "NHF1_(6-4)PP_1h_XR-seq_Rep2",
         "SRA": {
-            "id": "SRX2439929",
-            "runs": ["SRR5125158"] 
-        }   
+            "id": "SRX1506828",
+             "runs": ["SRR3062639","SRR3062640"] 
+             }   
     },
     {
-        "organism": "Escherichia coli",
-        "experiment": "Escherichia_coli_XR-seq",
-        "cell_line": false,
-        "tissue":false,
-        "damage": "PHR",
+        "organism": "Homo sapiens",
+        "experiment": "Homo_sapiens_XR-seq",
+        "cell_line":"NHF1",
+        "tissue": false,
+        "damage": "UV_64PP",
         "protocol": "XR-seq",
         "replicate": "A",
         "treatment": {
-          
-         },
-        "title": "phr_XR-seq_exp1",
+            "time_after_treatment": "2h"
+                    
+        },
+        "title": "NHF1_(6-4)PP_2h_XR-seq_Rep1",
         "SRA": {
-            "id": "SRX2439930",
-            "runs": ["SRR5125159"] 
-        }   
+            "id": "SRX1506829",
+             "runs": ["SRR3062641","SRR3062642"] 
+             }   
     },
     {
-        "organism": "Escherichia coli",
-        "experiment": "Escherichia_coli_XR-seq",
-        "cell_line": false,
-        "tissue":false,
-        "damage": "PHR",
+        "organism": "Homo sapiens",
+        "experiment": "Homo_sapiens_XR-seq",
+        "cell_line":"NHF1",
+        "tissue": false,
+        "damage": "UV_64PP",
         "protocol": "XR-seq",
         "replicate": "B",
         "treatment": {
-          
-         },
-        "title": "phr_XR-seq_exp2",
+            "time_after_treatment": "2h"
+                    
+        },
+        "title": "NHF1_(6-4)PP_2h_XR-seq_Rep2",
         "SRA": {
-            "id": "SRX2439931",
-            "runs": ["SRR5125160"] 
-        }   
+            "id": "SRX1506830",
+             "runs": ["SRR3062643","SRR3062644"] 
+             }   
     },
     {
-        "organism": "Escherichia coli",
-        "experiment": "Escherichia_coli_XR-seq",
-        "cell_line": false,
-        "tissue":false,
-        "damage": "MFD",
+        "organism": "Homo sapiens",
+        "experiment": "Homo_sapiens_XR-seq",
+        "cell_line":"NHF1",
+        "tissue": false,
+        "damage": "UV_64PP",
         "protocol": "XR-seq",
         "replicate": "A",
         "treatment": {
-          
-         },
-        "title": "mfd_XR-seq_exp1",
+            "time_after_treatment": "4h"
+                    
+        },
+        "title": "NHF1_(6-4)PP_4h_XR-seq_Rep1",
         "SRA": {
-            "id": "SRX2439932",
-            "runs": ["SRR5125161"] 
-        }   
+            "id": "SRX1506831",
+             "runs": ["SRR3062645","SRR3062646"] 
+             }   
     },
     {
-        "organism": "Escherichia coli",
-        "experiment": "Escherichia_coli_XR-seq",
-        "cell_line": false,
-        "tissue":false,
-        "damage": "uvrD",
-        "protocol": "XR-seq",
-        "replicate": "A",
-        "treatment": {
-          
-         },
-        "title": "uvrD_XR-seq_exp1",
-        "SRA": {
-            "id": "SRX2439934",
-            "runs": ["SRR5125163"] 
-        }   
-    },
-    {
-        "organism": "Escherichia coli",
-        "experiment": "Escherichia_coli_XR-seq",
-        "cell_line": false,
-        "tissue":false,
-        "damage": "uvrD",
+        "organism": "Homo sapiens",
+        "experiment": "Homo_sapiens_XR-seq",
+        "cell_line":"NHF1",
+        "tissue": false,
+        "damage": "UV_64PP",
         "protocol": "XR-seq",
         "replicate": "B",
         "treatment": {
-          
-         },
-        "title": "uvrD_XR-seq_exp2",
+            "time_after_treatment": "4h"
+                    
+        },
+        "title": "NHF1_(6-4)PP_4h_XR-seq_Rep2",
         "SRA": {
-            "id": "SRX2439935",
-            "runs": ["SRR5125164"] 
-        }   
-    }
+            "id": "SRX1506832",
+             "runs": ["SRR3062647","SRR3062648"] 
+             }   
+    },
+    {
+        "organism": "Homo sapiens",
+        "experiment": "Homo_sapiens_XR-seq",
+        "cell_line":"NHF1",
+        "tissue": false,
+        "damage": "UV_64PP",
+        "protocol": "XR-seq",
+        "replicate": "A",
+        "treatment": {
+            "time_after_treatment": "5min",
+            "background": "CSB"        
+        },
+        "title": "CS-B_(6-4)PP_5min_XR-seq_Rep1",
+        "SRA": {
+            "id": "SRX1506833",
+             "runs": ["SRR3062649","SRR3062650","SRR3062651"] 
+             }   
+    },
+    {
+        "organism": "Homo sapiens",
+        "experiment": "Homo_sapiens_XR-seq",
+        "cell_line":"NHF1",
+        "tissue": false,
+        "damage": "UV_64PP",
+        "protocol": "XR-seq",
+        "replicate": "B",
+        "treatment": {
+            "time_after_treatment": "5min",
+            "background": "CSB"        
+        },
+        "title": "CS-B_(6-4)PP_5min_XR-seq_Rep2",
+        "SRA": {
+            "id": "SRX1506834",
+             "runs": ["SRR3062652","SRR3062653","SRR3062654"] 
+             }   
+    },
+    {
+        "organism": "Homo sapiens",
+        "experiment": "Homo_sapiens_XR-seq",
+        "cell_line":"NHF1",
+        "tissue": false,
+        "damage": "UV_64PP",
+        "protocol": "XR-seq",
+        "replicate": "A",
+        "treatment": {
+            "time_after_treatment": "1h",
+            "background": "CSB"        
+        },
+        "title": "CS-B_(6-4)PP_1h_XR-seq_Rep1",
+        "SRA": {
+            "id": "SRX1506835",
+             "runs": ["SRR3062655"] 
+             }   
+    },
+    {
+        "organism": "Homo sapiens",
+        "experiment": "Homo_sapiens_XR-seq",
+        "cell_line":"NHF1",
+        "tissue": false,
+        "damage": "UV_64PP",
+        "protocol": "XR-seq",
+        "replicate": "B",
+        "treatment": {
+            "time_after_treatment": "1h",
+            "background": "CSB"        
+        },
+        "title": "CS-B_(6-4)PP_1h_XR-seq_Rep2",
+        "SRA": {
+            "id": "SRX1506836",
+             "runs": ["SRR3062656"] 
+             }   
+    },
+    {
+        "organism": "Homo sapiens",
+        "experiment": "Homo_sapiens_XR-seq",
+        "cell_line":"NHF1",
+        "tissue": false,
+        "damage": "UV_64PP",
+        "protocol": "XR-seq",
+        "replicate": "A",
+        "treatment": {
+            "time_after_treatment": "2h",
+            "background": "CSB"        
+        },
+        "title": "CS-B_(6-4)PP_2h_XR-seq_Rep1",
+        "SRA": {
+            "id": "SRX1506837",
+             "runs": ["SRR3062657","SRR3062658"] 
+             }   
+    },
+    {
+        "organism": "Homo sapiens",
+        "experiment": "Homo_sapiens_XR-seq",
+        "cell_line":"NHF1",
+        "tissue": false,
+        "damage": "UV_64PP",
+        "protocol": "XR-seq",
+        "replicate": "B",
+        "treatment": {
+            "time_after_treatment": "2h",
+            "background": "CSB"        
+        },
+        "title": "CS-B_(6-4)PP_2h_XR-seq_Rep2",
+        "SRA": {
+            "id": "SRX1506838",
+             "runs": ["SRR3062659","SRR3062660"] 
+             }   
+    },
+    {
+        "organism": "Homo sapiens",
+        "experiment": "Homo_sapiens_XR-seq",
+        "cell_line":"NHF1",
+        "tissue": false,
+        "damage": "UV_64PP",
+        "protocol": "XR-seq",
+        "replicate": "A",
+        "treatment": {
+            "time_after_treatment": "4h",
+            "background": "CSB"        
+        },
+        "title": "CS-B_(6-4)PP_4h_XR-seq_Rep1",
+        "SRA": {
+            "id": "SRX1506839",
+             "runs": ["SRR3062661","SRR3062662"] 
+             }   
+    },
+    {
+        "organism": "Homo sapiens",
+        "experiment": "Homo_sapiens_XR-seq",
+        "cell_line":"NHF1",
+        "tissue": false,
+        "damage": "UV_64PP",
+        "protocol": "XR-seq",
+        "replicate": "B",
+        "treatment": {
+            "time_after_treatment": "4h",
+            "background": "CSB"        
+        },
+        "title": "CS-B_(6-4)PP_4h_XR-seq_Rep2",
+        "SRA": {
+            "id": "SRX1506840",
+             "runs": ["SRR3062663","SRR3062664"] 
+             }   
+    },
+    {
+        "organism": "Mus musculus",
+        "experiment": "mouse_organs_cisplatin_repair",
+        "cell_line":false,
+        "tissue": "kidney",
+        "damage": "UV_CPD",
+        "protocol": "Damage-seq",
+        "replicate": "A",
+        "treatment": {
+            "time_after_treatment": "2h"
+                    
+        },
+        "title": "Damage-seq_Kidney_1",
+        "SRA": {
+            "id": "SRX4394582",
+             "runs": ["SRR7526037"] 
+             }   
+    },
+    {
+        "organism": "Mus musculus",
+        "experiment": "mouse_organs_cisplatin_repair",
+        "cell_line":false,
+        "tissue": "kidney",
+        "damage": "UV_CPD",
+        "protocol": "Damage-seq",
+        "replicate": "B",
+        "treatment": {
+            "time_after_treatment": "2h"
+                    
+        },
+        "title": "Damage-seq_Kidney_2",
+        "SRA": {
+            "id": "SRX4394583",
+             "runs": ["SRR7526038"] 
+             }   
+    },
+    {
+        "organism": "Mus musculus",
+        "experiment": "mouse_organs_cisplatin_repair",
+        "cell_line":false,
+        "tissue": "liver",
+        "damage": "UV_CPD",
+        "protocol": "Damage-seq",
+        "replicate": "A",
+        "treatment": {
+            "time_after_treatment": "2h"
+                    
+        },
+        "title": "Damage-seq_Liver_1",
+        "SRA": {
+            "id": "SRX4394584",
+             "runs": ["SRR7526039"] 
+             }   
+    },
+    {
+        "organism": "Mus musculus",
+        "experiment": "mouse_organs_cisplatin_repair",
+        "cell_line":false,
+        "tissue": "liver",
+        "damage": "UV_CPD",
+        "protocol": "Damage-seq",
+        "replicate": "B",
+        "treatment": {
+            "time_after_treatment": "2h"
+                    
+        },
+        "title": "Damage-seq_Liver_2",
+        "SRA": {
+            "id": "SRX4394585",
+             "runs": ["SRR7526040"] 
+             }   
+    },
+    {
+        "organism": "Mus musculus",
+        "experiment": "mouse_organs_cisplatin_repair",
+        "cell_line":false,
+        "tissue": "lung",
+        "damage": "UV_CPD",
+        "protocol": "Damage-seq",
+        "replicate": "A",
+        "treatment": {
+            "time_after_treatment": "2h"
+                    
+        },
+        "title": "Damage-seq_Lung_1",
+        "SRA": {
+            "id": "SRX4394586",
+             "runs": ["SRR7526041"] 
+             }   
+    },
+    {
+        "organism": "Mus musculus",
+        "experiment": "mouse_organs_cisplatin_repair",
+        "cell_line":false,
+        "tissue": "lung",
+        "damage": "UV_CPD",
+        "protocol": "Damage-seq",
+        "replicate": "B",
+        "treatment": {
+            "time_after_treatment": "2h"
+                    
+        },
+        "title": "Damage-seq_Lung_2",
+        "SRA": {
+            "id": "SRX4394587",
+             "runs": ["SRR7526042"] 
+             }   
+    },
+    {
+        "organism": "Mus musculus",
+        "experiment": "mouse_organs_cisplatin_repair",
+        "cell_line":false,
+        "tissue": "spleen",
+        "damage": "UV_CPD",
+        "protocol": "Damage-seq",
+        "replicate": "A",
+        "treatment": {
+            "time_after_treatment": "2h"
+                    
+        },
+        "title": "Damage-seq_Spleen_1",
+        "SRA": {
+            "id": "SRX4394588",
+             "runs": ["SRR7526043"] 
+             }   
+    },
+    {
+        "organism": "Mus musculus",
+        "experiment": "mouse_organs_cisplatin_repair",
+        "cell_line":false,
+        "tissue": "spleen",
+        "damage": "UV_CPD",
+        "protocol": "Damage-seq",
+        "replicate": "B",
+        "treatment": {
+            "time_after_treatment": "2h"
+                    
+        },
+        "title": "Damage-seq_Spleen_2",
+        "SRA": {
+            "id": "SRX4394589",
+             "runs": ["SRR7526044"] 
+             }   
+    },
+    {
+        "organism": "Mus musculus",
+        "experiment": "mouse_organs_cisplatin_repair",
+        "cell_line":false,
+        "tissue": "kidney",
+        "damage": "UV_CPD",
+        "protocol": "XR-seq",
+        "replicate": "A",
+        "treatment": {
+            "time_after_treatment": "2h"
+                    
+        },
+        "title": "XR-seq_Kidney_1",
+        "SRA": {
+            "id": "SRX4394590",
+             "runs": ["SRR7526045"] 
+             }   
+    },
+    {
+        "organism": "Mus musculus",
+        "experiment": "mouse_organs_cisplatin_repair",
+        "cell_line":false,
+        "tissue": "kidney",
+        "damage": "UV_CPD",
+        "protocol": "XR-seq",
+        "replicate": "B",
+        "treatment": {
+            "time_after_treatment": "2h"
+                    
+        },
+        "title": "XR-seq_Kidney_2",
+        "SRA": {
+            "id": "SRX4394591",
+             "runs": ["SRR7526046"] 
+             }   
+    },
+    {
+        "organism": "Mus musculus",
+        "experiment": "mouse_organs_cisplatin_repair",
+        "cell_line":false,
+        "tissue": "liver",
+        "damage": "UV_CPD",
+        "protocol": "XR-seq",
+        "replicate": "A",
+        "treatment": {
+            "time_after_treatment": "2h"
+                    
+        },
+        "title": "XR-seq_Liver_1",
+        "SRA": {
+            "id": "SRX4394592",
+             "runs": ["SRR7526047"] 
+             }   
+    },
+    {
+        "organism": "Mus musculus",
+        "experiment": "mouse_organs_cisplatin_repair",
+        "cell_line":false,
+        "tissue": "liver",
+        "damage": "UV_CPD",
+        "protocol": "XR-seq",
+        "replicate": "B",
+        "treatment": {
+            "time_after_treatment": "2h"
+                    
+        },
+        "title": "XR-seq_Liver_2",
+        "SRA": {
+            "id": "SRX4394593",
+             "runs": ["SRR7526048"] 
+             }   
+    },
+    {
+        "organism": "Mus musculus",
+        "experiment": "mouse_organs_cisplatin_repair",
+        "cell_line":false,
+        "tissue": "lung",
+        "damage": "UV_CPD",
+        "protocol": "XR-seq",
+        "replicate": "A",
+        "treatment": {
+            "time_after_treatment": "2h"
+                    
+        },
+        "title": "XR-seq_Lung_1",
+        "SRA": {
+            "id": "SRX4394594",
+             "runs": ["SRR7526049"] 
+             }   
+    },
+    {
+        "organism": "Mus musculus",
+        "experiment": "mouse_organs_cisplatin_repair",
+        "cell_line":false,
+        "tissue": "lung",
+        "damage": "UV_CPD",
+        "protocol": "XR-seq",
+        "replicate": "B",
+        "treatment": {
+            "time_after_treatment": "2h"
+                    
+        },
+        "title": "XR-seq_Lung_2",
+        "SRA": {
+            "id": "SRX4394595",
+             "runs": ["SRR7526050"] 
+             }   
+    },
+    {
+        "organism": "Mus musculus",
+        "experiment": "mouse_organs_cisplatin_repair",
+        "cell_line":false,
+        "tissue": "spleen",
+        "damage": "UV_CPD",
+        "protocol": "XR-seq",
+        "replicate": "A",
+        "treatment": {
+            "time_after_treatment": "2h"
+                    
+        },
+        "title": "XR-seq_Spleen_1",
+        "SRA": {
+            "id": "SRX4394596",
+             "runs": ["SRR7526051"] 
+             }   
+    },
+    {
+        "organism": "Mus musculus",
+        "experiment": "mouse_organs_cisplatin_repair",
+        "cell_line":false,
+        "tissue": "spleen",
+        "damage": "UV_CPD",
+        "protocol": "XR-seq",
+        "replicate": "B",
+        "treatment": {
+            "time_after_treatment": "2h"
+                    
+        },
+        "title": "XR-seq_Spleen_2",
+        "SRA": {
+            "id": "SRX4394597",
+             "runs": ["SRR7526052"] 
+             }   
+    },
 
 
 
@@ -2673,9 +2780,3 @@
 
 
 
-
-
-
-
-
-]
